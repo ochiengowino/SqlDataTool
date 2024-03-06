@@ -61,6 +61,7 @@
     <Folder Include="publish locations" />
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\Stored Procedures" />
+    <Folder Include="Compares" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Person.sql" />
@@ -73,5 +74,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="publish locations\LocalDatatoolDB.publish.xml" />
+    <None Include="Compares\SqlSchemaCompare2.scmp" />
   </ItemGroup>
 </Project>

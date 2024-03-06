@@ -4,3 +4,7 @@ C:\Users\LYN\source\repos\SqlDataTool\bin\Debug\SqlDataTool.pdb
 C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\SqlDataTool.sqlproj.AssemblyReference.cache
 C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\SqlDataTool.dll
 C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\SqlDataTool.pdb
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\Model.xml
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\refactor.xml
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\postdeploy.sql
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\predeploy.sql
