@@ -62,6 +62,7 @@
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\Stored Procedures" />
     <Folder Include="Compares" />
+    <Folder Include="PostDeplyScripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Person.sql" />
@@ -75,5 +76,8 @@
   <ItemGroup>
     <None Include="publish locations\LocalDatatoolDB.publish.xml" />
     <None Include="Compares\SqlSchemaCompare2.scmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="PostDeplyScripts\Script.PostDeployPerson.sql" />
   </ItemGroup>
 </Project>
