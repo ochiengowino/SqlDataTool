@@ -1,0 +1,6 @@
+C:\Users\LYN\source\repos\SqlDataTool\bin\Debug\SqlDataTool.dacpac
+C:\Users\LYN\source\repos\SqlDataTool\bin\Debug\SqlDataTool.dll
+C:\Users\LYN\source\repos\SqlDataTool\bin\Debug\SqlDataTool.pdb
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\SqlDataTool.sqlproj.AssemblyReference.cache
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\SqlDataTool.dll
+C:\Users\LYN\source\repos\SqlDataTool\obj\Debug\SqlDataTool.pdb
